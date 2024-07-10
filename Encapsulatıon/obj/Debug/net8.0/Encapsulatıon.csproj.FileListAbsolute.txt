@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\bin\Debug\net8.0\Encapsulatıon.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\bin\Debug\net8.0\Encapsulatıon.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\bin\Debug\net8.0\Encapsulatıon.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\bin\Debug\net8.0\Encapsulatıon.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\bin\Debug\net8.0\Encapsulatıon.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\Encapsulatıon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\Encapsulatıon.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\Encapsulatıon.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\Encapsulatıon.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\Encapsulatıon.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\refint\Encapsulatıon.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\Encapsulatıon.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\Encapsulatıon.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Encapsulatıon\obj\Debug\net8.0\ref\Encapsulatıon.dll
